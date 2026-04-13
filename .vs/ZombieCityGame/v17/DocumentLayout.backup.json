@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\ZombieCityGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F809C328-B198-435A-B409-F0ECF15DB22A}|ZombieCityGame\\ZombieCityGame.csproj|e:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\zombiecitygame\\zombiecitygame\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F809C328-B198-435A-B409-F0ECF15DB22A}|ZombieCityGame\\ZombieCityGame.csproj|solutionrelative:zombiecitygame\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F809C328-B198-435A-B409-F0ECF15DB22A}|ZombieCityGame\\ZombieCityGame.csproj|e:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\zombiecitygame\\zombiecitygame\\world\\gridmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F809C328-B198-435A-B409-F0ECF15DB22A}|ZombieCityGame\\ZombieCityGame.csproj|solutionrelative:zombiecitygame\\world\\gridmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F809C328-B198-435A-B409-F0ECF15DB22A}|ZombieCityGame\\ZombieCityGame.csproj|e:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\zombiecitygame\\zombiecitygame\\entities\\agentai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F809C328-B198-435A-B409-F0ECF15DB22A}|ZombieCityGame\\ZombieCityGame.csproj|solutionrelative:zombiecitygame\\entities\\agentai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F809C328-B198-435A-B409-F0ECF15DB22A}|ZombieCityGame\\ZombieCityGame.csproj|e:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\zombiecitygame\\zombiecitygame\\entities\\messagetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F809C328-B198-435A-B409-F0ECF15DB22A}|ZombieCityGame\\ZombieCityGame.csproj|solutionrelative:zombiecitygame\\entities\\messagetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F809C328-B198-435A-B409-F0ECF15DB22A}|ZombieCityGame\\ZombieCityGame.csproj|e:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\zombiecitygame\\zombiecitygame\\world\\gameoverlayrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F809C328-B198-435A-B409-F0ECF15DB22A}|ZombieCityGame\\ZombieCityGame.csproj|solutionrelative:zombiecitygame\\world\\gameoverlayrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F809C328-B198-435A-B409-F0ECF15DB22A}|ZombieCityGame\\ZombieCityGame.csproj|e:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\zombiecitygame\\zombiecitygame\\entities\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F809C328-B198-435A-B409-F0ECF15DB22A}|ZombieCityGame\\ZombieCityGame.csproj|solutionrelative:zombiecitygame\\entities\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F809C328-B198-435A-B409-F0ECF15DB22A}|ZombieCityGame\\ZombieCityGame.csproj|e:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\zombiecitygame\\zombiecitygame\\entities\\dangermemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F809C328-B198-435A-B409-F0ECF15DB22A}|ZombieCityGame\\ZombieCityGame.csproj|solutionrelative:zombiecitygame\\entities\\dangermemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F809C328-B198-435A-B409-F0ECF15DB22A}|ZombieCityGame\\ZombieCityGame.csproj|e:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\zombiecitygame\\zombiecitygame\\entities\\agentmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F809C328-B198-435A-B409-F0ECF15DB22A}|ZombieCityGame\\ZombieCityGame.csproj|solutionrelative:zombiecitygame\\entities\\agentmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F809C328-B198-435A-B409-F0ECF15DB22A}|ZombieCityGame\\ZombieCityGame.csproj|e:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\zombiecitygame\\zombiecitygame\\world\\citymaprenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F809C328-B198-435A-B409-F0ECF15DB22A}|ZombieCityGame\\ZombieCityGame.csproj|solutionrelative:zombiecitygame\\world\\citymaprenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F809C328-B198-435A-B409-F0ECF15DB22A}|ZombieCityGame\\ZombieCityGame.csproj|e:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\zombiecitygame\\zombiecitygame\\world\\mapfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F809C328-B198-435A-B409-F0ECF15DB22A}|ZombieCityGame\\ZombieCityGame.csproj|solutionrelative:zombiecitygame\\world\\mapfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F809C328-B198-435A-B409-F0ECF15DB22A}|ZombieCityGame\\ZombieCityGame.csproj|e:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\zombiecitygame\\zombiecitygame\\entities\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F809C328-B198-435A-B409-F0ECF15DB22A}|ZombieCityGame\\ZombieCityGame.csproj|solutionrelative:zombiecitygame\\entities\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F809C328-B198-435A-B409-F0ECF15DB22A}|ZombieCityGame\\ZombieCityGame.csproj|e:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\zombiecitygame\\zombiecitygame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F809C328-B198-435A-B409-F0ECF15DB22A}|ZombieCityGame\\ZombieCityGame.csproj|solutionrelative:zombiecitygame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F809C328-B198-435A-B409-F0ECF15DB22A}|ZombieCityGame\\ZombieCityGame.csproj|e:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\zombiecitygame\\zombiecitygame\\world\\tiletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F809C328-B198-435A-B409-F0ECF15DB22A}|ZombieCityGame\\ZombieCityGame.csproj|solutionrelative:zombiecitygame\\world\\tiletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DangerMemory.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\ZombieCityGame\\ZombieCityGame\\Entities\\DangerMemory.cs",
+              "RelativeDocumentMoniker": "ZombieCityGame\\Entities\\DangerMemory.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\ZombieCityGame\\ZombieCityGame\\Entities\\DangerMemory.cs",
+              "RelativeToolTip": "ZombieCityGame\\Entities\\DangerMemory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T22:04:00.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AgentMessage.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\ZombieCityGame\\ZombieCityGame\\Entities\\AgentMessage.cs",
+              "RelativeDocumentMoniker": "ZombieCityGame\\Entities\\AgentMessage.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\ZombieCityGame\\ZombieCityGame\\Entities\\AgentMessage.cs",
+              "RelativeToolTip": "ZombieCityGame\\Entities\\AgentMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T22:03:29.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageType.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\ZombieCityGame\\ZombieCityGame\\Entities\\MessageType.cs",
+              "RelativeDocumentMoniker": "ZombieCityGame\\Entities\\MessageType.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\ZombieCityGame\\ZombieCityGame\\Entities\\MessageType.cs",
+              "RelativeToolTip": "ZombieCityGame\\Entities\\MessageType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T22:02:34.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameOverlayRenderer.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\ZombieCityGame\\ZombieCityGame\\World\\GameOverlayRenderer.cs",
+              "RelativeDocumentMoniker": "ZombieCityGame\\World\\GameOverlayRenderer.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\ZombieCityGame\\ZombieCityGame\\World\\GameOverlayRenderer.cs",
+              "RelativeToolTip": "ZombieCityGame\\World\\GameOverlayRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T21:51:16.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CityMapRenderer.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\ZombieCityGame\\ZombieCityGame\\World\\CityMapRenderer.cs",
+              "RelativeDocumentMoniker": "ZombieCityGame\\World\\CityMapRenderer.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\ZombieCityGame\\ZombieCityGame\\World\\CityMapRenderer.cs",
+              "RelativeToolTip": "ZombieCityGame\\World\\CityMapRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T21:37:07.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AgentAI.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\ZombieCityGame\\ZombieCityGame\\Entities\\AgentAI.cs",
+              "RelativeDocumentMoniker": "ZombieCityGame\\Entities\\AgentAI.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\ZombieCityGame\\ZombieCityGame\\Entities\\AgentAI.cs",
+              "RelativeToolTip": "ZombieCityGame\\Entities\\AgentAI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T13:26:37.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Agent.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\ZombieCityGame\\ZombieCityGame\\Entities\\Agent.cs",
+              "RelativeDocumentMoniker": "ZombieCityGame\\Entities\\Agent.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\ZombieCityGame\\ZombieCityGame\\Entities\\Agent.cs",
+              "RelativeToolTip": "ZombieCityGame\\Entities\\Agent.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAqwFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T12:17:19.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Zombie.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\ZombieCityGame\\ZombieCityGame\\Entities\\Zombie.cs",
+              "RelativeDocumentMoniker": "ZombieCityGame\\Entities\\Zombie.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\ZombieCityGame\\ZombieCityGame\\Entities\\Zombie.cs",
+              "RelativeToolTip": "ZombieCityGame\\Entities\\Zombie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T07:04:12.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\ZombieCityGame\\ZombieCityGame\\Game1.cs",
+              "RelativeDocumentMoniker": "ZombieCityGame\\Game1.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\ZombieCityGame\\ZombieCityGame\\Game1.cs",
+              "RelativeToolTip": "ZombieCityGame\\Game1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsCAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T08:11:30.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MapFactory.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\ZombieCityGame\\ZombieCityGame\\World\\MapFactory.cs",
+              "RelativeDocumentMoniker": "ZombieCityGame\\World\\MapFactory.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\ZombieCityGame\\ZombieCityGame\\World\\MapFactory.cs",
+              "RelativeToolTip": "ZombieCityGame\\World\\MapFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T08:40:26.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GridMap.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\ZombieCityGame\\ZombieCityGame\\World\\GridMap.cs",
+              "RelativeDocumentMoniker": "ZombieCityGame\\World\\GridMap.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\ZombieCityGame\\ZombieCityGame\\World\\GridMap.cs",
+              "RelativeToolTip": "ZombieCityGame\\World\\GridMap.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T08:40:02.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TileType.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\ZombieCityGame\\ZombieCityGame\\World\\TileType.cs",
+              "RelativeDocumentMoniker": "ZombieCityGame\\World\\TileType.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\ZombieCityGame\\ZombieCityGame\\World\\TileType.cs",
+              "RelativeToolTip": "ZombieCityGame\\World\\TileType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T08:39:43.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\ZombieCityGame\\ZombieCityGame\\Program.cs",
+              "RelativeDocumentMoniker": "ZombieCityGame\\Program.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D9\u05D2 - \u05DE\u05E9\u05D7\u05E7\\ZombieCityGame\\ZombieCityGame\\Program.cs",
+              "RelativeToolTip": "ZombieCityGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T06:51:09.883Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
